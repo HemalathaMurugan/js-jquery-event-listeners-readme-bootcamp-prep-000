@@ -10,14 +10,13 @@ function frameIt(){
     $('img').addClass("tasty");
   })
 }
+function pressIt(){
+  $()
+}
 $(document).ready(function(){
 
 // call functions here
 
 });
 
-/*function frameIt() {
-  $('img').on("load", function() {
-    $(this).addClass("tasty");
-  });
-}*/
+
