@@ -18,7 +18,9 @@ function pressIt(){
   });
 }
 function submitIt(){
-  
+  $(document).on("submit",function(){
+    alert("Your fo")
+  })
 }
 $(document).ready(function(){
 
