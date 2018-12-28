@@ -5,14 +5,15 @@
     alert('Hey!');
   });
 }
-/*function frameIt() {
-  $('img').on("load", function() {
-    $(this).addClass("tasty");
-  });
-}*/
-
+function 
 $(document).ready(function(){
 
 // call functions here
 
 });
+
+/*function frameIt() {
+  $('img').on("load", function() {
+    $(this).addClass("tasty");
+  });
+}*/
