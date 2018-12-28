@@ -12,12 +12,12 @@ function frameIt(){
 }
 function pressIt(){
   $('input').on("keydown",function(e){
-    if(e.which == 71){
+    if(e.key == "G"){
       alert("You pressed G");
     }
   });
 }
-
+function 
 $(document).ready(function(){
 
 pressIt();
