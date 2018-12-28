@@ -17,7 +17,9 @@ function pressIt(){
     }
   });
 }
-function su
+function submitIt(){
+  
+}
 $(document).ready(function(){
 
 pressIt();
