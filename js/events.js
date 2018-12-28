@@ -19,7 +19,7 @@ function pressIt(){
 }
 function submitIt(){
   $(document).on("submit",function(){
-    alert("Your fo")
+    alert("Your form is going to be submitted now.");
   })
 }
 $(document).ready(function(){
